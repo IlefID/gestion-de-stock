@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|c:\\users\\tpc\\onedrive\\bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|solutionrelative:gestion de stock\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|c:\\users\\tpc\\onedrive\\bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|solutionrelative:gestion de stock\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|c:\\users\\tpc\\onedrive\\bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\categoriemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|solutionrelative:gestion de stock\\categoriemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|c:\\users\\tpc\\onedrive\\bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\categorie1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|solutionrelative:gestion de stock\\categorie1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\article1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|solutionrelative:gestion de stock\\article1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|c:\\users\\tpc\\onedrive\\bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4B93930-34F6-4E3C-B613-A78C5395C176}|gestion de stock\\gestion de stock.csproj|solutionrelative:gestion de stock\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "categorie1.cs",
+              "DocumentMoniker": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\categorie1.cs",
+              "RelativeDocumentMoniker": "gestion de stock\\categorie1.cs",
+              "ToolTip": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\categorie1.cs",
+              "RelativeToolTip": "gestion de stock\\categorie1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:28:47.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategorieManager.cs",
+              "DocumentMoniker": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\CategorieManager.cs",
+              "RelativeDocumentMoniker": "gestion de stock\\CategorieManager.cs",
+              "ToolTip": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\CategorieManager.cs",
+              "RelativeToolTip": "gestion de stock\\CategorieManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:18:12.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\Article.cs",
+              "RelativeDocumentMoniker": "gestion de stock\\Article.cs",
+              "ToolTip": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\Article.cs",
+              "RelativeToolTip": "gestion de stock\\Article.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAkwM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:17:57.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleManager.cs",
+              "DocumentMoniker": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\ArticleManager.cs",
+              "RelativeDocumentMoniker": "gestion de stock\\ArticleManager.cs",
+              "ToolTip": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\ArticleManager.cs",
+              "RelativeToolTip": "gestion de stock\\ArticleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:17:48.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "article1.cs",
+              "DocumentMoniker": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\article1.cs",
+              "RelativeDocumentMoniker": "gestion de stock\\article1.cs",
+              "ToolTip": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\article1.cs",
+              "RelativeToolTip": "gestion de stock\\article1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:27:40.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Article.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\Article.cs",
+              "RelativeDocumentMoniker": "gestion de stock\\Article.cs",
+              "ToolTip": "C:\\Users\\TPC\\OneDrive\\Bureau\\projet de c# gestion de stock\\gestion de stock\\gestion de stock\\Article.cs [Design]",
+              "RelativeToolTip": "gestion de stock\\Article.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:17:46.193Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

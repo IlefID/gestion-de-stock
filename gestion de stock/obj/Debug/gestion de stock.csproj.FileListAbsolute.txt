@@ -1,0 +1,33 @@
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\bin\Debug\gestion de stock.exe.config
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\bin\Debug\gestion de stock.exe
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\bin\Debug\gestion de stock.pdb
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion de stock.csproj.AssemblyReference.cache
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.adminConnexion.resources
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.Properties.Resources.resources
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion de stock.csproj.GenerateResource.cache
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion de stock.csproj.CoreCompileInputs.cache
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion de stock.exe
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion de stock.pdb
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\bin\Debug\Guna.UI.dll
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion de stock.csproj.CopyComplete
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.Form1.resources
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.livirason.resources
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.fournisseur.resources
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.categorie.resources
+C:\Users\TPC\source\repos\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.Clients.resources
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\bin\Debug\gestion de stock.exe.config
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\bin\Debug\gestion de stock.exe
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\bin\Debug\gestion de stock.pdb
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion de stock.csproj.AssemblyReference.cache
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.adminConnexion.resources
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.categorie.resources
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.Clients.resources
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.Form1.resources
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.livirason.resources
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.Properties.Resources.resources
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion_de_stock.fournisseur.resources
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion de stock.csproj.GenerateResource.cache
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion de stock.csproj.CoreCompileInputs.cache
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion de stock.exe
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion de stock.pdb
+C:\Users\TPC\OneDrive\Bureau\projet de c# gestion de stock\gestion de stock\gestion de stock\obj\Debug\gestion .F574D874.Up2Date
